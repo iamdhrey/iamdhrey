@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamdhrey
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, HTML, CSS and React
+- 👀 I’m interested in Web3 Development
+- 🌱 I’m currently learning Javascript, HTML, CSS, React, Solidity, Hardhat, NodeJS
 - 💞️ I’m looking to collaborate on the above mention
 - 📫 How to reach me const iamdharey = "damilare.nelson@outlook.com"
 <!---
