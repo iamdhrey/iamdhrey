@@ -1,4 +1,4 @@
-- 👋 Hi, I’mNelson Enujeke
+- 👋 Hi, I’m Nelson Enujeke
 - 👀 I’m interested in Web3 Development, DevOps, Site Reliability Engineering
 - 🌱 I’m currently learning Javascript, HTML, CSS, React, Solidity, Hardhat, NodeJS
 - 💞️ I’m looking to collaborate on the above-mentioned
