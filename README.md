@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nelson Enujeke
 - 👀 I’m interested in Web3 Development, DevOps, Site Reliability Engineering
-- 🌱 I’m currently learning Javascript, HTML, CSS, React, Solidity, Hardhat, NodeJS
+- 🌱 I’m currently developing with Javascript, HTML, CSS, React, Solidity, Hardhat, NodeJS
 - 💞️ I’m looking to collaborate on the above-mentioned
 - 📫 How to reach me const iamdhrey = "damilare.nelson@outlook.com"
 <!---
