@@ -7,3 +7,4 @@
 iamdhrey/iamdhrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[BlockchainExpert_Certificate.pdf](https://github.com/iamdhrey/iamdhrey/files/14090089/BlockchainExpert_Certificate.pdf)
